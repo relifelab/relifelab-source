@@ -9,6 +9,6 @@ Backup of local source files for ReLife Laboratory websites
 ## About
 These source files are intended for my personal use only :-) 
 
-For ```labreport```, visit relifelab.github.io or relifelaboratory.wordpress.com
+For ```labreport```, visit [relifelab.github.io](https://relifelab.github.io) or [relifelaboratory.wordpress.com](https://relifelaboratory.wordpress.com)
 
-[relifelab.github.io](https://relifelab.github.io) is proudly based on hexo-cms, hexo-theme-ochuunn, and GitHub Pages. 
+[relifelab.github.io](https://relifelab.github.io) is based on hexo-cms, hexo-theme-ochuunn, and GitHub Pages. 
