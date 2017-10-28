@@ -9,10 +9,11 @@ Backup of local source files for ReLife Laboratory websites
 ## About
 This is not really related to you tho ._.
 
-You should be checking out relifelab.github.io or relifelaboratory.wordpress.cominstead of looking at this :-)
+You should be checking out relifelab.github.io or relifelaboratory.wordpress.com instead of looking at this :-)
 
-If you are a web development nerd, source files are inside ```relifelab.github.io/themes/ochuunn```
+If you are a web development nerd, source files are inside ```./relifelab.github.io/themes/ochuunn```
 
-relifelab.github.io is proudly based on hexo-cms, hexo-theme-ochuunn, and GitHub Pages. 
+
+[relifelab.github.io](https://relifelab.github.io) is proudly based on hexo-cms, hexo-theme-ochuunn, and GitHub Pages. 
 
 Brought to you by [lee.wp14](https://github.com/leewp14)
