@@ -7,13 +7,8 @@ Backup of local source files for ReLife Laboratory websites
 ```common``` common asset files
 
 ## About
-This is not really related to you tho ._.
+These source files are intended for my personal use only :-) 
 
-You should be checking out relifelab.github.io or relifelaboratory.wordpress.com instead of looking at this :-)
-
-If you are a web development nerd, source files are inside ```./relifelab.github.io/themes/ochuunn```
-
+For ```labreport```, visit relifelab.github.io or relifelaboratory.wordpress.com
 
 [relifelab.github.io](https://relifelab.github.io) is proudly based on hexo-cms, hexo-theme-ochuunn, and GitHub Pages. 
-
-Brought to you by [lee.wp14](https://github.com/leewp14)
