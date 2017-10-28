@@ -1,0 +1,27 @@
+# head
+menu:
+   <labreport> : /labreport
+   <labforum> : "https://tieba.baidu.com/p/5294393140"
+  # sitemap: /sitemap.xml
+  # other menus
+
+rss: # /atom.xml
+favicon: /img/favicon.png
+popup: /img/popup.png
+
+date_format: 'MMMM D, YYYY'
+
+google_verification: 5Hd-i7v2ZeBIXPHQhyfH_aZGyqGJrbFAlQmube8kuwc  # your token
+google_analytics: UA-64243736-4   # your id
+
+livere_id: 'city'
+livere_uid: 'MTAyMC8zMTMwMy83ODUy'
+
+start_year: 2017
+
+reward_images: # add your qr image
+# - type: '微信'
+#   url: '/img/wechat.png'
+# - type: '支付宝' 
+#   url: '/img/wechat.png'
+ 

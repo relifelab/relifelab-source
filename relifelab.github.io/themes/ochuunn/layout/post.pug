@@ -1,0 +1,18 @@
+extends views/main.pug
+
+block head
+  title
+    = page.title + ' - ' + config.title
+
+block main
+  .alert
+    span.closebtn(onclick="this.parentElement.style.display='none';") ×
+    |   labreport is best viewed using Firefox. 
+  
+  include mixins/post.pug
+  +post(page, 'post')
+  
+  include plugins/reward.pug
+  include plugins/livere.pug
+  
+  != js('js/nocontext')
